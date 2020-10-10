@@ -1,4 +1,4 @@
-# GT - Prjects
+# GT - Projects
 
 ### Backend - dotnetcore
 ### Frontend - Angular
